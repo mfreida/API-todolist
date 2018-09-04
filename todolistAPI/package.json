@@ -1,0 +1,22 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Creating a restful api implementing nodejs, express, mongodb cud operations on a todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restful"
+  ],
+  "author": "Freida Mati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
